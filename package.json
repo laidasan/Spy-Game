@@ -1,0 +1,30 @@
+{
+  "name": "spygame",
+  "version": "1.0.0",
+  "description": "samura.chiu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laidasan/Spy-Game.git"
+  },
+  "author": "samura.chiu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laidasan/Spy-Game/issues"
+  },
+  "homepage": "https://github.com/laidasan/Spy-Game#readme",
+  "dependencies": {
+    "vue": "^2.6.11",
+    "vue-hot-reload-api": "^2.3.4",
+    "vue-router": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.2.0",
+    "sass": "^1.26.10",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
